@@ -1,0 +1,14 @@
+{
+  "name": "connect-chat-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start":"node app-backend/server.js"
+  },
+  "author": "Tonmoy Roy",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
